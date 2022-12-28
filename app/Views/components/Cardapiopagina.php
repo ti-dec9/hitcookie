@@ -1,4 +1,4 @@
-<section class="relative py-20 px-20">
+<section class="relative py-20 lg:px-20 px-4">
     
     <!-- Linha preta abaixo do tÃ­tulo -->
     <h1 class="text-4xl font-bold text-verdehk pb-10 text-center lg:text-start lg:pl-4">Bebidas</h1>
