@@ -14,15 +14,15 @@
         </li>
       
         <li>
-          <a href="#" class="block py-2 text-white hover-underline-animation">Cardápio</a>
+          <a href="<?php echo base_url('cardapio'); ?>" class="block py-2 text-white hover-underline-animation">Cardápio</a>
         </li>
 
         <li>
-          <a href="#" class="block py-2 text-white hover-underline-animation">Novidades</a>
+          <a href="#novidades" class="block py-2 text-white hover-underline-animation">Novidades</a>
         </li>
 
         <li>
-          <a href="#" class="block py-2 text-white hover-underline-animation">Contato</a>
+          <a href="https://www.instagram.com/postometano/" class="block py-2 text-white hover-underline-animation">Contato</a>
         </li>
         
         

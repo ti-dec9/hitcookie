@@ -5,7 +5,7 @@
 	<!--=============== basic  ===============-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>PSR - Quem Somos</title>
+	<title>HitCookie - Quem Somos</title>
 	<meta name="robots" content="index, follow" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
@@ -23,14 +23,8 @@
 <!-- Header -->
 <?php echo view('components/Navbar'); ?>
 
-<!-- Quem Somos Slider -->
-<?php echo view('components/Pagquemsomos'); ?>
-
 <!-- Quem Somos Texto -->
-<?php echo view('components/Quemsomostexto'); ?>
-
-<!-- Quem Somos Timeline -->
-<?php echo view('components/Quemsomostimeline'); ?>
+<?php echo view('components/Quemsomos'); ?>
 
 <!-- Footer -->
 <?php echo view('components/Footer'); ?>

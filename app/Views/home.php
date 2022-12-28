@@ -31,7 +31,7 @@ x-init="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = fa
 <?php echo view('components/Slider'); ?>
 
 <!-- Cardapio -->
-<?php echo view('components/Cardapio'); ?>
+<?php echo view('components/Cardapiohome'); ?>
 
 <!-- Novidades -->
 <?php echo view('components/Novidades'); ?>
@@ -40,3 +40,9 @@ x-init="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = fa
 <?php echo view('components/Footer'); ?>
 </body>
 </html>
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>

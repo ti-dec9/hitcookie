@@ -39,10 +39,7 @@ $routes->get('/', 'Home::index');
 
 $routes->get('/quem-somos', 'Quemsomos::Quemsomos');
 
-$routes->get('/contato/contato', 'Contato::Contato');
-
-
-
+$routes->get('/cardapio', 'Cardapio::Cardapio');
 
 /*
  * --------------------------------------------------------------------

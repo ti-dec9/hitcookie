@@ -4,12 +4,12 @@
    <div class="flex flex-row z-20 border-4 rounded-lg border-amarelohk lg:mx-64 lg:pr-4">
       
         <div class="z-30">
-        <img class="hidden lg:flex w-[1000px] h-full drop-shadow-xl lg:ml-4" src="https://ik.imagekit.io/jdmxypilt/HitCookie/WhatsApp_Image_2022-12-01_at_22.51.50__1_-removebg-preview_Xe-v52FEY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671543852802" alt="" />
+        <img class="hidden lg:flex w-[600px] h-full drop-shadow-xl lg:ml-4" src="https://ik.imagekit.io/jdmxypilt/HitCookie/WhatsApp_Image_2022-12-01_at_22.51.50__1_-removebg-preview_Xe-v52FEY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671543852802" alt="" />
         </div>
 
         <div class="lg:px-10 py-16 text-center lg:text-start">
-      <h1 class="text-white text-xl font-bold uppercase pt-4">Conheça nosso Cardápio!</h1> <br>
-      <p class="text-white">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum corporis optio atque voluptates dolor quia alias tenetur non hic beatae, iste eveniet placeat delectus corrupti.</p> <br>
+      <h1 class="text-white text-2xl font-bold uppercase pt-4">Conheça nosso Cardápio!</h1> <br>
+      <p class="text-white">Variado e com diversas opções deliciosas, todos os itens do nosso cardápio são feitos artesanalmente e com muito amor. Do café da manhã ao almoço, do hambúrguer a sobremesa... </p> <br>
       <span class="font-bold text-amarelohk text-xl hover-underline-animation"><a href="">Cardápio_</a></span>
       </div>
   </div>

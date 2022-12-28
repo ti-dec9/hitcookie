@@ -30,7 +30,7 @@
       <ul class="flex flex-col items-center lg:items-end gap-4">
         
         <li><a href="#" class="text-white opacity-70 hover:text-amarelohk">Quem Somos</a></li>
-        <li><a href="#" class="text-white opacity-70 hover:text-amarelohk">Novidades</a></li>
+        <li><a href="#novidades" class="text-white opacity-70 hover:text-amarelohk">Novidades</a></li>
         
       </ul>
     </div> 
@@ -40,7 +40,7 @@
       <ul class="flex flex-col items-center lg:items-start gap-4">
       
         <li><a href="#" class="text-white opacity-70 hover:text-amarelohk">Cardápio</a></li>
-        <li><a href="#" class="text-white opacity-70 hover:text-amarelohk">Contato</a></li>
+        <li><a href="https://www.instagram.com/postometano/" class="text-white opacity-70 hover:text-amarelohk">Contato</a></li>
       </ul>
     </div> 
     
