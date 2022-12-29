@@ -51,11 +51,16 @@
   <div
     class="flex flex-col items-center justify-between w-full h-full gap-4 py-3 text-white lg:flex-row"
   >
-    <div class="text-sm text-center">
-     
-    <!--Todos os Direitos Reservados -->
-
+    <div class="text-sm text-center"> 
+    © 2022 HitCookie. Todos os Direitos Reservados
     </div>
+
+
+    <div class="text-sm text-center pb-2">
+      <a href="https://www.dec9.com.br"><img alt="DEC9" class="h-8" src="https://ik.imagekit.io/xtpuuvl6i/by-dec9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672335488456" alt=""> </a>
+    </div>
+
+    
   </div>
 </section>
 
