@@ -22,7 +22,7 @@
             color: #777;
             font-weight: 300;
         }
-        h1 {
+        h2 {
             font-weight: lighter;
             letter-spacing: normal;
             font-size: 3rem;
@@ -70,7 +70,7 @@
 </head>
 <body>
     <div class="wrap">
-        <h1>404 - File Not Found</h1>
+        <h2>404 - File Not Found</h2>
 
         <p>
             <?php if (ENVIRONMENT !== 'production') : ?>

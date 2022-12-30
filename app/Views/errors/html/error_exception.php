@@ -19,7 +19,7 @@
     <!-- Header -->
     <div class="header">
         <div class="container">
-            <h1><?= esc($title), esc($exception->getCode() ? ' #' . $exception->getCode() : '') ?></h1>
+            <h2><?= esc($title), esc($exception->getCode() ? ' #' . $exception->getCode() : '') ?></h2>
             <p>
                 <?= nl2br(esc($exception->getMessage())) ?>
                 <a href="https://www.duckduckgo.com/?q=<?= urlencode($title . ' ' . preg_replace('#\'.*\'|".*"#Us', '', $exception->getMessage())) ?>"

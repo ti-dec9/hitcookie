@@ -3,7 +3,6 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
     />
-
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
@@ -16,7 +15,7 @@
           <div class="z-20 flex justify-start w-full p-8 py-44 lg:px-20">
               <div class="flex flex-col max-w-xl gap-4">
                 <h2 data-wow-delay=".6s" class="text-xl font-bold wow text-azulpsr animate__animated animate__fadeInRight">Desde 2001</h2>
-                  <h1 data-wow-delay=".6s" class="text-3xl font-bold text-white wow lg:text-6xl animate__animated animate__fadeInRight">Sua melhor escolha é confiar em nós!</h1>
+                  <h2 data-wow-delay=".6s" class="text-3xl font-bold text-white wow lg:text-6xl animate__animated animate__fadeInRight">Sua melhor escolha é confiar em nós!</h2>
                   <div data-wow-delay=".6s" class="flex flex-col gap-4 text-white wow animate__animated animate__fadeInUp">
                       <p class="font-light leading-6 lg:text-justify ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, cumque? Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem.</p>
                       </p>
@@ -37,96 +36,124 @@
     </div>
       -->
       <div class="swiper mySwiper">
-      <div class="swiper-wrapper">
-
-      <!--Desktop 1-->
+        <div class="swiper-wrapper">
+        <!--Desktop 1-->
+        <div class="swiper-slide lg:block">
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/fdhsdxghsed_pzJpXSg7u?ik-sdk-version=javascript-1.4.3&updatedAt=1671545285676" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
+      </div>
+      <!--Mobile 1
+      <div class="block swiper-slide lg:hidden">
+        <div class="w-full hero">
+          <img class="w-[500px] h-[500px]" src="https://ik.imagekit.io/3yrvfhfn9/PSR_Site/PSR_-_Banner_Site_Mobile-9_uV0S-9tmF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669409451375" alt="">
+          
+        </div>
+      </div> 
+      -->
+       <!--Desktop 2-->
       <div class="swiper-slide lg:block">
-      <div class="w-full h-[500px] hero">
-        <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/fdhsdxghsed_pzJpXSg7u?ik-sdk-version=javascript-1.4.3&updatedAt=1671545285676" alt="">
-       <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/IMG_4449_2x3cAZA_q.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1672423201932" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
       </div>
-    </div>
-    <!--Mobile 1
-    <div class="block swiper-slide lg:hidden">
-      <div class="w-full hero">
-        <img class="w-[500px] h-[500px]" src="https://ik.imagekit.io/3yrvfhfn9/PSR_Site/PSR_-_Banner_Site_Mobile-9_uV0S-9tmF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669409451375" alt="">
-        
+        <!--Desktop 3-->
+        <div class="swiper-slide lg:block">
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/sadfsaf_93wyzyeq7?ik-sdk-version=javascript-1.4.3&updatedAt=1671545299528" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
       </div>
-    </div> 
-    -->
-
-      <!--Desktop 2-->
+      <!--Mobile 2
+      <div class="block swiper-slide lg:hidden">
+        <div class="w-full hero">
+          <img class="w-[500px] h-[500px]" src="https://ik.imagekit.io/3yrvfhfn9/PSR_Site/PSR_-_Banner_Site_Mobile-6_8uruiindF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669409451296" alt="">
+          
+        </div>
+      </div>  -->
+      <!--Desktop 4-->
       <div class="swiper-slide lg:block">
-      <div class="w-full h-[500px] hero">
-        <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/sadfsaf_93wyzyeq7?ik-sdk-version=javascript-1.4.3&updatedAt=1671545299528" alt="">
-       <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/IMG_4347_cwFrLocJg.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1672423337575" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
       </div>
-    </div>
-    <!--Mobile 2
-    <div class="block swiper-slide lg:hidden">
-      <div class="w-full hero">
-        <img class="w-[500px] h-[500px]" src="https://ik.imagekit.io/3yrvfhfn9/PSR_Site/PSR_-_Banner_Site_Mobile-6_8uruiindF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669409451296" alt="">
-        
+      <!--Desktop 5-->
+      <div class="swiper-slide lg:block">
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/cvbxcvb_0sRTPOrPx?ik-sdk-version=javascript-1.4.3&updatedAt=1671545325474" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
       </div>
-    </div>  -->
-
-    <!--Desktop 3-->
-    <div class="swiper-slide lg:block">
-      <div class="w-full h-[500px] hero">
-        <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/cvbxcvb_0sRTPOrPx?ik-sdk-version=javascript-1.4.3&updatedAt=1671545325474" alt="">
-       <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+       <!--Desktop 6-->
+       <div class="swiper-slide lg:block">
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/IMG_4705_3wi_ZblZZ.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1672423499972" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
       </div>
-    </div>
-    <!--Mobile 3
-    <div class="block swiper-slide lg:hidden">
-      <div class="w-full hero">
-        <img class="w-[500px] h-[500px]" src="https://ik.imagekit.io/3yrvfhfn9/PSR_Site/PSR_-_Banner_Site_Mobile-7_X8JdUJCJ8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669409451217" alt="">
-    
+      <!--Desktop 7-->
+      <div class="swiper-slide lg:block">
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/IMG_4597_jyqvTJEVO.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1672427164350" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
       </div>
-    </div>
-    
--->
-
-    </div>
-    
- 
- <div class="swiper-pagination"></div>
-
-</div>
-<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-<script>
-  var swiper = new Swiper(".mySwiper", {
-    centeredSlides: true,
-    loop:false,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: true,
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-  });
-</script>
-
-<style>
-  .swiper {
-        width: 100%;
-        height: 100%;
-      }
+      <!--Desktop 8-->
+      <div class="swiper-slide lg:block">
+        <div class="w-full h-[500px] hero">
+          <img src="https://ik.imagekit.io/jdmxypilt/HitCookie/IMG_4569_TpMJ83b4R.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1672427135001" alt="">
+         <!-- <div class="opacity-10 hero-overlay bg-primary-content -z-0"></div> -->
+        </div>
+      </div>
+      <!--Mobile 3
+      <div class="block swiper-slide lg:hidden">
+        <div class="w-full hero">
+          <img class="w-[500px] h-[500px]" src="https://ik.imagekit.io/3yrvfhfn9/PSR_Site/PSR_-_Banner_Site_Mobile-7_X8JdUJCJ8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669409451217" alt="">
       
-    .swiper-slide img {
-        display: block;
-        width: 100%;
-        height: 100% !important;
-        object-fit: cover;
-      }
-
-      .swiper-pagination-bullet {
-        background-color: #ebe709;
-      }
-</style>
+        </div>
+      </div>
+      
+  -->
+      </div>
+      
+   
+   <div class="swiper-pagination"></div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      centeredSlides: true,
+      loop:false,
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: true,
+      },
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  </script>
+  <style>
+    .swiper {
+          width: 100%;
+          height: 100%;
+        }
+        
+      .swiper-slide img {
+          display: block;
+          width: 100%;
+          height: 100% !important;
+          object-fit: cover;
+        }
+        .swiper-pagination-bullet {
+          background-color: #ebe709;
+        }
+  </style>

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en" data-theme="wireframe">
+<html  lang="en" data-theme="wireframe">
 
 <head>
 	<!--=============== basic  ===============-->
@@ -9,8 +9,7 @@
 	<meta name="robots" content="index, follow" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-	<!--=============== javascript  ===============-->
-	<?php echo view('partials/scripts'); ?>
+	
 	<!--=============== css  ===============-->
 	<?php echo view('partials/styles'); ?>
 	<!--=============== favicons ===============-->
@@ -20,8 +19,8 @@
 </head>
 
 <body  x-data="{navOpen: false, scrolledFromTop: false}"
-x-init="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = false"
-@scroll.window="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = false">
+x-init="window.pageYOffset >= 250 ? scrolledFromTop = true : scrolledFromTop = false"
+@scroll.window="window.pageYOffset >= 250 ? scrolledFromTop = true : scrolledFromTop = false">
   
   
 <!-- Nav -->
@@ -39,6 +38,8 @@ x-init="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = fa
 <!-- Footer -->
 <?php echo view('components/Footer'); ?>
 </body>
+<!--=============== javascript  ===============-->
+<?php echo view('partials/scripts'); ?>
 </html>
 
 <style>

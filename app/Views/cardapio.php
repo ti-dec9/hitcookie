@@ -20,8 +20,8 @@
 </head>
 
 <body  x-data="{navOpen: false, scrolledFromTop: false}"
-x-init="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = false"
-@scroll.window="window.pageYOffset >= 50 ? scrolledFromTop = true : scrolledFromTop = false">
+x-init="window.pageYOffset >= 150 ? scrolledFromTop = true : scrolledFromTop = false"
+@scroll.window="window.pageYOffset >= 150 ? scrolledFromTop = true : scrolledFromTop = false">
   
   
 <!-- Nav -->
