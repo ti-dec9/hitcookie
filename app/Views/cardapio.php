@@ -42,4 +42,13 @@ x-init="window.pageYOffset >= 150 ? scrolledFromTop = true : scrolledFromTop = f
 html {
   scroll-behavior: smooth;
 }
+
+.amarelohk{
+	color:#ebe709;
+}
+
+.verdehk{
+	color:#005051;
+}
+
 </style>

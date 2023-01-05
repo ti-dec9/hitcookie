@@ -5,14 +5,14 @@
   <div class="px-4">
     <ul class="flex gap-4">
       <li class="transition-all duration-300 hover:-translate-y-1">
-        <a href="https://instagram.com/postometano?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.instagram.com/hit.cookie/"><i class="fa-brands fa-instagram"></i></a>
       </li>
       <li class="transition-all duration-300 hover:-translate-y-1">
-        <a href="https://www.facebook.com/postometano?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook"></i></a>
+        <a href="https://www.facebook.com/hitcookie?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook"></i></a>
       </li>
     </ul>
   </div>
-  <div class="text-sm"><a href="https://www.instagram.com/postometano/">Entre em Contato</a></div>
+  <div class="text-sm"><a href="https://www.instagram.com/hit.cookie/">Entre em Contato</a></div>
 </div>
 <header
   class="z-30 flex items-center justify-between w-full px-4 text-white transition-all duration-300 shadow-amarelohk bg-verdehk md:px-12"
@@ -48,7 +48,7 @@
         <a id="novidades" href="#novidades" @click="navOpen = false" class="relative block py-2 text-white hover-underline-animation">Novidades</a>
       </li>
       <li>
-        <a href="https://www.instagram.com/postometano/" @click="navOpen = false" class="relative block py-2 text-white hover-underline-animation">Contato</a>
+        <a href="https://www.instagram.com/hit.cookie/" @click="navOpen = false" class="relative block py-2 text-white hover-underline-animation">Contato</a>
       </li>
     </ul>
   </nav>

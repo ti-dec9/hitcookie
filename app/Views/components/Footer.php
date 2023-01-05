@@ -20,7 +20,7 @@
           <a href="https://instagram.com/postometano?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram fa-4x"></i></a>
         </li>
         <li class="transition-all duration-300 hover:-translate-y-1">
-          <a href="https://www.facebook.com/postometano?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook fa-4x"></i></a>
+          <a href="https://www.facebook.com/hitcookie?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook fa-4x"></i></a>
         </li>
       </ul>
     </div>
@@ -40,7 +40,7 @@
       <ul class="flex flex-col items-center gap-4 lg:items-start">
       
         <li><a href="<?php echo base_url('cardapio'); ?>" class="text-white opacity-70 hover:text-amarelohk">Cardápio</a></li>
-        <li><a href="https://www.instagram.com/postometano/" class="text-white opacity-70 hover:text-amarelohk">Contato</a></li>
+        <li><a href="https://www.instagram.com/hit.cookie/" class="text-white opacity-70 hover:text-amarelohk">Contato</a></li>
       </ul>
     </div> 
     
