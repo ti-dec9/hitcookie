@@ -48,12 +48,12 @@
     </div>
 
     <div class="lg:py-4 py-2">
-    <figure><img class="lg:w-10/12 lg:h-10/12 w-[400px] h-[200px]" src="" alt="" /></figure>
+    <figure><img class="lg:w-10/12 lg:h-10/12" src="https://ik.imagekit.io/jdmxypilt/HitCookie/IMG_4591_Mokd6qCmcR.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1673457651768" alt="" /></figure>
     </div>
 
     <div class="lg:pt-2 px-4">
-      <h1 class="text-lg text-verdehk font-bold lg:py-2">Croque Monsieur</h1> 
-      <p class="lg:py-2"></p> 
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pão Com Linguiça</h1> 
+      <p class="lg:py-2">Pão, queijo, linguiça de churrasco, acompanha vinagrete.</p> 
       <span class="text-md text-verdehk font-bold lg:py-2">R$20,00</span>
     </div>
 
@@ -215,6 +215,16 @@
     <div class="lg:pt-2 px-4">
       <h1 class="text-lg text-verdehk font-bold lg:py-2">Petit Gateau</h1> 
       <p class="lg:py-2">Chocolate com sorvete.</p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pudim</h1> 
+      <p class="lg:py-2"></p> 
       <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
     </div>
 
@@ -444,7 +454,7 @@
 <!-- Categoria 4 --> <br>
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
-    Salgados
+    Salgados e Pizzas
   </div>
   <div class="collapse-content"> 
     
@@ -522,6 +532,46 @@
       <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
     </div>
 
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Empadão de Frango</h1> 
+      <p class="lg:py-2">Recheio de frango.</p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Croque Monsier</h1> 
+      <p class="lg:py-2"></p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pizza Calabresa</h1> 
+      <p class="lg:py-2"></p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pizza Marguerita</h1> 
+      <p class="lg:py-2"></p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$10,00</span>
+    </div>
+
 
 
 </div>
@@ -550,7 +600,7 @@
 
     <div class="lg:pt-2 px-4">
       <h1 class="text-lg text-verdehk font-bold lg:py-2">Prato Executivo 1</h1> 
-      <p class="lg:py-2">Tilápia / linguado, crosta parmesão, arroz cremoso.</p> 
+      <p class="lg:py-2">Tilápia / linguado, crosta de parmesão, arroz cremoso.</p> 
       <span class="text-md text-verdehk font-bold lg:py-2"> R$20,00</span>
     </div>
 
@@ -616,7 +666,98 @@
       <span class="text-md text-verdehk font-bold lg:py-2"> R$20,00</span>
     </div>
 
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Salada</h1> 
+      <p class="lg:py-2">Mix de folhas, tomate, cenoura, molho vinagrete.</p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$9,00</span>
+    </div>
+
     
+
+</div>
+
+
+    
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Categoria Cafe da manha --> <br>
+<div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
+  <div class="collapse-title text-xl font-medium text-verdehk">
+    Café da Manhã
+  </div>
+  <div class="collapse-content"> 
+    
+    <div class="grid grid-cols-2 gap-0">
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pão Fresco c/ Manteiga</h1> 
+      <p class="lg:py-2"></p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$5,00</span>
+    </div>
+
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-full w-[400px] h-[200px]" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pão na Chapa</h1> 
+      <p class="lg:py-2">Pão francês + manteiga</p> 
+      <span class="text-md text-verdehk font-bold lg:py-2"> R$6,50</span>
+    </div>
+
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-10/12 w-[400px] h-[200px]" src="https://ik.imagekit.io/jdmxypilt/HitCookie/Banner_Hit_Cookie-03_PWkpfgkPt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672421398406" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Misto Quente</h1> 
+      <p class="lg:py-2">Presunto e Queijo derretido.</p> 
+      <span class="text-md text-verdehk font-bold lg:py-2">R$9,00</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-10/12" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Queijo Quente</h1> 
+      <p class="lg:py-2">Pão na chapa com queijo minas.</p> 
+      <span class="text-md text-verdehk font-bold lg:py-2">R$9,00</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-10/12" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Ovos Mexidos</h1> 
+      <p class="lg:py-2"></p> 
+      <span class="text-md text-verdehk font-bold lg:py-2">R$9,50</span>
+    </div>
+
+    <div class="lg:py-4 py-2">
+    <figure><img class="lg:w-10/12 lg:h-10/12" src="" alt="" /></figure>
+    </div>
+
+    <div class="lg:pt-2 px-4">
+      <h1 class="text-lg text-verdehk font-bold lg:py-2">Pão com Ovo</h1> 
+      <p class="lg:py-2"></p> 
+      <span class="text-md text-verdehk font-bold lg:py-2">R$9,50</span>
+    </div>
 
 </div>
 
