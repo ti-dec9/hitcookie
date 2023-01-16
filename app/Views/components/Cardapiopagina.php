@@ -1,3 +1,12 @@
+<section class="relative px-4 py-20 lg:px-20">
+
+<iframe src="https://drive.google.com/file/d/1Il4Er3R0Efuu1w7voBjhQHRsUl0svkRC/preview" width="100%" height="500px">
+
+</section>
+
+
+<!-- VERSÃO ANTIGA SEM PDF
+  
 <head>
 <link href="https://cdn.jsdelivr.net/npm/daisyui@2.46.1/dist/full.css" rel="stylesheet" type="text/css" />
 <script src="https://cdn.tailwindcss.com"></script>
@@ -6,7 +15,7 @@
 
 <section class="relative py-20 lg:px-20 px-4">
     
-<!-- Categoria 1 -->
+
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
     Sanduíches
@@ -67,7 +76,7 @@
   </div>
 </div>
 
-<!-- Categoria 2 --> <br>
+ <br>
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
     Sobremesas
@@ -240,7 +249,7 @@
 </div>
 
 
-<!-- Categoria 3 --> <br>
+ <br>
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
     Bebidas
@@ -451,7 +460,7 @@
   </div>
 </div>
 
-<!-- Categoria 4 --> <br>
+ <br>
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
     Salgados e Pizzas
@@ -585,7 +594,7 @@
 </div>
 
 
-<!-- Categoria 5 --> <br>
+ <br>
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
     Pratos
@@ -688,7 +697,7 @@
   </div>
 </div>
 
-<!-- Categoria Cafe da manha --> <br>
+ <br>
 <div tabindex="0" class="collapse collapse-arrow border border-verdehk bg-base-100 rounded-box">
   <div class="collapse-title text-xl font-medium text-verdehk">
     Café da Manhã
@@ -771,4 +780,4 @@
   
 
      
-</section>
+</section> -->
