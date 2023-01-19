@@ -17,7 +17,7 @@
     <div class="lg:pt-16 lg:pl-10">
     <ul class="flex flex-col gap-4 text-amarelohk">
         <li class="transition-all duration-300 hover:-translate-y-1">
-          <a href="https://instagram.com/postometano?igshid=YmMyMTA2M2Y="><i class="fa-brands fa-instagram fa-4x"></i></a>
+          <a href="https://www.instagram.com/hit.cookie/"><i class="fa-brands fa-instagram fa-4x"></i></a>
         </li>
         <li class="transition-all duration-300 hover:-translate-y-1">
           <a href="https://www.facebook.com/hitcookie?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook fa-4x"></i></a>
